@@ -42,3 +42,12 @@ Thanks!
 - [Crash Course osgeo.gdal for R](https://gist.github.com/mdsumner/0da55c5caec4a196f588cd5a4016e7ef)
 
 </details>
+
+<details>
+<summary>Videos</summary> 
+
+- [IT&I Rants and Raves: Meeting Data Where It Lives - Mike Johnson, Lynker](https://www.youtube.com/watch?v=auK_gPR-e7M&t=4s)
+
+</details>
+
+Please add more :)
