@@ -10,10 +10,31 @@ Below is a list of some content to help with navigating the wide world of GDAL!
 
 Please, if you have any suggestions for the lists feel free to [**PR**](https://github.com/gdal4al/gdal-examples/pulls)! 
 
-Thanks!
+Thanks!  
 
 ---
-### GDAL Examples 
+
+### Contributions  
+
+This repo is in the beginning stages so be aware!  
+
+Right now, the idea is to provide examples within the `examples` folder. Currently there are 5 sub folders:  
+
+* Python  
+* R  
+* R-Python
+* CLI  
+* JS  
+
+Within these folders is where the contributions/examples will go. Please, if you have any examples feel free to [**PR**](https://github.com/gdal4al/gdal-examples/pulls) or send me a gist/txt file and I can add to the appropriate folder. From here, these will be curated to some degree into a bookdown version for easier navigation.  
+
+Thanks for your help!
+
+---  
+
+### GDAL Examples   
+
+Below is the ever-growing list of links to GDAL related materials.  
 
 <details>
 <summary>CLI</summary>    
@@ -37,7 +58,7 @@ Thanks!
 </details>
 
 <details>
-<summary>R/Python</summary> 
+<summary>R-Python</summary> 
 
 - [Crash Course osgeo.gdal for R](https://gist.github.com/mdsumner/0da55c5caec4a196f588cd5a4016e7ef)
 
