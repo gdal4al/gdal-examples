@@ -2,4 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 .gdal-examples.Rproj
+=======
+.gdal-examples.Rproj
+>>>>>>> 79823f179ce36bc751c422d6ec67d96892d6ba8e
