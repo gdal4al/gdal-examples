@@ -69,6 +69,8 @@ Below is the ever-growing list of links to GDAL related materials.
 
 - [IT&I Rants and Raves: Meeting Data Where It Lives - Mike Johnson, Lynker](https://www.youtube.com/watch?v=auK_gPR-e7M&t=4s)
 
+- [Making Sense Remotely (GDAL tutorials)](https://www.youtube.com/@makingsenseremotely6207/videos)
+
 </details>
 
 Please add more :)
