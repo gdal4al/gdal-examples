@@ -1,0 +1,26 @@
+--- 
+title: "GDAL4ALL"
+author: "..."
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://github.com/gdal4al/gdal-examples
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::bs4_book,
+  set in the _output.yml file.
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+# About
+
+This is an attempt to collate as much Geospatial Data Abstraction Library (GDAL) uses across different languages. It is in the very beginning stages and is mostly trying to just get something started. 
+
+## Usage 
+
+The idea is to have chapters dedicated to GDAL and its influence on different programming languages and context. WIP...
+
+
